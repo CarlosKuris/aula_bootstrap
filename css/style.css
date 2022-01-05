@@ -1,0 +1,31 @@
+
+body {
+    font: 20px Verdana;
+}
+
+.navbar {
+    background-color: #F8C471;
+}
+
+.quem-somos {
+    background-color: #A2D9CE;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margin-circle {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.servicos {
+    background-color: #A2D9CE;
+}
+
+.bg-footer {
+    background-color: black;
+    color: blanchedalmond;
+}
